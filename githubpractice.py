@@ -8,3 +8,5 @@ if a < 10:
     print "5 is indeed smaller than 10"
 
 print "Our third commit"
+
+print "Ok, let's try to edit our previous commit"
