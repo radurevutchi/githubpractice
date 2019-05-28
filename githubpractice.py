@@ -2,3 +2,7 @@
 
 print "Hey Yall"
 print "Let's practice using git commands on linux."
+
+a = 5
+if a < 10:
+    print "5 is indeed smaller than 10"
