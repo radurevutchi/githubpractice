@@ -16,3 +16,6 @@ for a in range(10):
 
 sentence = raw_input("say something!")
 
+
+response = "You wrote: " + sentence
+print response
