@@ -19,3 +19,5 @@ sentence = raw_input("say something!")
 
 response = "You wrote: " + sentence
 print response
+
+print "I am 20 years old"
