@@ -30,3 +30,8 @@ a = 0
 while a < 10:
     print "variable a is " + a
 
+
+a = range(10)
+
+print a[7]
+
